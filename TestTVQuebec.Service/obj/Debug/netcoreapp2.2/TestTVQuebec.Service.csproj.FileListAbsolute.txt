@@ -1,0 +1,9 @@
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/bin/Debug/netcoreapp2.2/TestTVQuebec.Service.deps.json
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/bin/Debug/netcoreapp2.2/TestTVQuebec.Service.dll
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/bin/Debug/netcoreapp2.2/TestTVQuebec.Service.pdb
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.csprojAssemblyReference.cache
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.csproj.CoreCompileInputs.cache
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.AssemblyInfoInputs.cache
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.AssemblyInfo.cs
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.dll
+/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/Debug/netcoreapp2.2/TestTVQuebec.Service.pdb

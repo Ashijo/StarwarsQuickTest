@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.WebApp/TestTVQuebec.WebApp.csproj": {}
+  },
+  "projects": {
+    "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/TestTVQuebec.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/TestTVQuebec.Service.csproj",
+        "projectName": "TestTVQuebec.Service",
+        "projectPath": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/TestTVQuebec.Service.csproj",
+        "packagesPath": "/home/ashijo/.nuget/packages/",
+        "outputPath": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ashijo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.WebApp/TestTVQuebec.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.WebApp/TestTVQuebec.WebApp.csproj",
+        "projectName": "TestTVQuebec.WebApp",
+        "projectPath": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.WebApp/TestTVQuebec.WebApp.csproj",
+        "packagesPath": "/home/ashijo/.nuget/packages/",
+        "outputPath": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ashijo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/TestTVQuebec.Service.csproj": {
+                "projectPath": "/mnt/FatBoy/Git/TestTVQuebec/TestTVQuebec.Service/TestTVQuebec.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
